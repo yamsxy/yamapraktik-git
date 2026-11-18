@@ -11,7 +11,7 @@ func main() {
 		fmt.Printf("%d ", i)
 	}
 
-	fmt.Println()
+	fmt.Println("yama idiot")
 
 	hitung := N
 
