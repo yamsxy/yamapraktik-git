@@ -21,5 +21,5 @@ func main() {
 	}
 
 	fmt.Println()
-	fmt.Println("Jumlah:", jumlah)
+	fmt.Println("Jumlahhhh:", jumlah)
 }
