@@ -19,4 +19,7 @@ func main() {
 	fmt.Println("Hasil Konversi:")
 	fmt.Printf("Fahrenheit: %.2f\n", fahrenheit)
 	fmt.Printf("Kelvin: %.2f\n", kelvin)
+
+	reamur := celsius * 4 / 5
+	fmt.Printf("Reamur: %.2f\n", reamur)
 }
