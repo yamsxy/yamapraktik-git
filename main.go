@@ -22,4 +22,9 @@ func main() {
 
 	reamur := celsius * 4 / 5
 	fmt.Printf("Reamur: %.2f\n", reamur)
+
+	if celsius < -273.15 {
+		fmt.Println("Suhu tidak boleh di bawah nol mutlak!")
+		return
+	}
 }
